@@ -1,0 +1,11 @@
+Pour faire fonctionner le bot merci de mettre votre token.
+
+ensuite fait npm i discord.js
+
+ensuite npm i @discordjs/rest
+
+ensuite npm i fs
+
+ensuite npm i ms
+
+Faut pas oublier d'installer nodejs sur votre ordinateur Ou votre hébergeur.
