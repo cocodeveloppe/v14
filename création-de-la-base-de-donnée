@@ -1,0 +1,14 @@
+Comment créer la base de données en localhost : 
+
+Pour cela installer xampp panel controle (https://www.apachefriends.org/fr/download.html)
+
+Suivez des intructions pour télécharger.
+
+Vous lancez Apache et MySQL
+
+Aller sur votre navigateur web et vous mettez localhost/phpmyadmin
+
+Une fois dessus faite Nouvelle Base de données
+
+Dans nom de base de données vous mettez n'importe quel Nom
+
