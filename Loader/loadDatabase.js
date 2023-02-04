@@ -7,7 +7,7 @@ module.exports = async () => {
     host: "localhost",
     user: "root",
     password: "",
-    database: "v14"
+    database: " nom de la base de données"
   })
 
   return db;
