@@ -8,6 +8,8 @@ ensuite npm i fs
 
 ensuite npm i ms
 
+ensuite npm i mysql
+
 Faut pas oublier d'installer nodejs sur votre ordinateur Ou votre hébergeur.
 
 Si le bot ne fonctionne pas vous recommencez car vous avez modifier des lignes qu'il ne fallait pas.
