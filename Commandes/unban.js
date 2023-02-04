@@ -12,12 +12,14 @@ module.exports = {
       type: "user",
       name: "utilisateur",
       description: "L'utilisateur à débannir",
-      required: true
+      required: true,
+      autocomplete: false
     }, {
       type: "string",
       name: "raison",
       description: "La raison du débannissement",
-      required: false
+      required: false,
+      autocomplete: false
     }
   ],
 
