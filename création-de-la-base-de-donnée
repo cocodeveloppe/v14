@@ -12,3 +12,26 @@ Une fois dessus faite Nouvelle Base de données
 
 Dans nom de base de données vous mettez n'importe quel Nom
 
+Ensuite créer une table qui vas s'appelleras warns
+
+dans la 1er colonne le nom seras guild
+
+dans la 2eme colonne le nom seras user
+
+dans la 3eme colonne le nom seras author
+
+dans la 4eme colonne le nom seras warn
+
+Ajouter 2 colonnes en plus.
+
+dans la 5eme colonne le nom seras reason
+
+dans la 6eme colonne le nom seras date
+
+Tout les type de toute les colonnes seras en VARCHAR
+
+En taille vous mettez tout en 255 sauf la colonne reason qui seras a 2000 
+
+Puis enregistrer
+
+Pour warn vous allez sur Plus et vous cliquez sur la clé primaire puis cliquer sur ok
