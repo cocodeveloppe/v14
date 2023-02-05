@@ -35,3 +35,15 @@ En taille vous mettez tout en 255 sauf la colonne reason qui seras a 2000
 Puis enregistrer
 
 Pour warn vous allez sur Plus et vous cliquez sur la clé primaire puis cliquer sur ok
+
+Créer une nouvelle table qui vas s'appeller xp
+
+dans la 1er colonne le nom seras user
+
+dans la 2eme colonne le nom seras guild
+
+dans la 3eme colonne le nom seras xp
+
+dans la 4eme colonne le nom seras level
+
+En type vous mettez VARCHAR partout et en taille vous mettez 255 partour
